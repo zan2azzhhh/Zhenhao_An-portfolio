@@ -8,7 +8,7 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 - This repository: https://github.com/zan2azzhhh/Zhenhao_An-portfolio
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
 
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
