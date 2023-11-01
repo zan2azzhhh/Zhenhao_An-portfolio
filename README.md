@@ -5,7 +5,7 @@ Portfolio templates for setting up your Telling Stories with Data site.  Edit th
 Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: https://zan2azzhhh.github.io/Zhenhao_An-portfolio/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- This repository: https://github.com/zan2azzhhh/Zhenhao_An-portfolio
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
