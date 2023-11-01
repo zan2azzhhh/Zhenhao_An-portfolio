@@ -4,27 +4,21 @@
 - This repository: https://github.com/zan2azzhhh/Zhenhao_An-portfolio
 
 # About me
-Hi! I am a master's student majoring in mechanical engineering and engineering & technology innovation management. I am passionate about modeling and control of robotics. I am also an enthusiast of machine learning and data visualization. 
+Hi! I am a master's student majoring in mechanical engineering and engineering & technology innovation management. I am passionate about modeling and control of robotics. I am also an enthusiast of machine learning and data visualization. I just started my new position as a research assistant at DROP Lab of Robotics Institute, where I am working on enabling and enhancing the robot’s motions to follow user-specified sketches by developing the “Stable Diffeomorphic Diagrammatic Teaching” framework. 
+
+I enjoy playing soccer during my free time. My favorite soccer players are Kaka and Sun Jihai who is a member of the English Football Hall of Fame. I also often do self-driving tours. 
 
 My LinkedIn: https://www.linkedin.com/in/andyan1006/
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I am curious about the science behind data visualization because my work contains many data visualization tasks, and I am interested in the design of color and shape. Before enrolling in this course, I evaluated the quality of my visualizations just by my instinct. Although I received some praise for that, after the first class, I realized that my real skills are far worse than I previously thought. So from this course, I wish to learn the criteria that determine whether a data visualization is good or bad and get some hands-on experience to practice relevant techniques.
+I hope that this course can make me feel relaxed compared to my other engineering courses and can help me do better jobs during my current research and my whole career.
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
 
 ## Assignment1:
+https://docs.google.com/spreadsheets/d/1VT8F2X85_jRj2xZch1v-JAlIZ28IBcFU5odyZczysoI/edit#gid=747157950
 
 ## Assignment2: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
