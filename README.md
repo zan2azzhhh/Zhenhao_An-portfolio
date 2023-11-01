@@ -19,6 +19,7 @@ So, from this course, I hope to learn the criteria that determine whether a data
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
 
 ## Assignment1:
+this page is part of my assignment.
 
 ## Assignment2: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
