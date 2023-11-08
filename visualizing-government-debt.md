@@ -39,6 +39,9 @@ code:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+comment: 
+
+
 I've chosen the treemap visualization for several reasons. One notable advantage is that it allows countries with high percentages to stand out. The map is ranked from the upper left to the lower right, making it easier for the audience to identify the top-performing countries. Additionally, I've set 100% as the center value, which results in values higher than 100% being displayed in red while the rest are shown in blue. This color scheme helps draw the audience's attention to the top countries with values exceeding 100%.
 
 Within each treemap box, all the years for each country are efficiently represented. I've also designed the labels to show the most recent data, although there seems to be an issue with them not displaying correctly. However, they work as intended in "presentation mode."
