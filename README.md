@@ -22,9 +22,9 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 ## Assignment1:
 this page is part of my assignment.
 
-## Assignment2: [Visualizing government Debt](visualizing-government-debt)
+## Assignment2: [Visualizing government Debt](visualizing-government-debt.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-<script type='text/javascript'> var divElement = document.getElementById('viz1699409965521'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
