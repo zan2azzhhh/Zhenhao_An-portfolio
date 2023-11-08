@@ -4,7 +4,7 @@
 [Government debt data from OECD](https://data.oecd.org/chart/7faw)
 
 # Part 2: Working with Tableau
-[Highlight Table](https://public.tableau.com/views/GovernmentDebtDatahighlighttablefromOECD/highlight_table?:language=en-US&:display_count=n&:origin=viz_share_link)
+My Tableau Public: [Highlight Table](https://public.tableau.com/views/GovernmentDebtDatahighlighttablefromOECD/highlight_table?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Here is an example:
 
@@ -28,4 +28,8 @@ final code block:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 
 </script>
+
+# Part 3: Create your own visualization
+
+
 
