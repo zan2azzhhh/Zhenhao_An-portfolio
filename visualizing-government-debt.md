@@ -1,7 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Part 1: Working with web-based visualization tools and data
-[Government debt data from OECD](https://data.oecd.org/chart/7faw)
+Source: [Government debt data from OECD](https://data.oecd.org/chart/7faw)
+
+Embed Code:
+<iframe src="https://data.oecd.org/chart/7fb2" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fb2" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2022 or latest available</a></iframe>
+
 
 # Part 2: Working with Tableau
 My Tableau Public: [Highlight Table](https://public.tableau.com/views/GovernmentDebtDatahighlighttablefromOECD/highlight_table?:language=en-US&:display_count=n&:origin=viz_share_link)
