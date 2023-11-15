@@ -15,26 +15,21 @@ Original Visualization:
 
 1. What I find works well and stands out to me
    
-   (1) Title. The title clearly tells the audience the content of this chart
+   (1) Title. The title effectively communicates the content of the chart.
 
    (2) Bar Chart. The bar chart is very effective for comparing different categories
 
 2. What I find does not work well and I will do differently
 
-   (1) Subtitle. It expresses similar information as the title, so I would delete the subtitle to remove redundancy.
+   (1) Subtitle. The subtitle conveys similar information as the title. To eliminate redundancy, I would remove the subtitle.
    
-   (2) Picture. The pictures on the top of each bar chart refer to the same information as the X-label, and it is unnecessary to put all of them into the chart. So I would delete those pictures.
-   
-   (3) Color. By default, people may think that the yellow color is more suitable to represent protein than the blue color. Besides, there is only one type of color, making the chart looks less beautiful. So I'd like to use dark yellow and light yellow for those that cost less, and gray for those that are more expensive. In this way, I can highlight the products that are not only cheap but also nutritious
-   
-   (4) From highest to lowest.
-   
-   (5) Calorie numbers. Neither the title nor the subtitle are mentioned to introduce the calories of these products. Moreover, the numbers are put in the top of the bar chart, which has already been ranked by the cost. By convention, it is more expected to put the number that represents Y-label into there but not others. So I would simply delete the calorie information, or turn it into a line chart that is at the same place as the bar chart while removing those numbers that are in the bar chart.
-   
-   (6) Hard to identify the exact Y value. While the chart shows the exact calorie values, the cost value, which is the more important information, is far less explicit than the calorie.  It happens especially when the bar is far from the Y-axis. So I would add 0.5, 1.5, 2.5, 3.5 light grey line into the chart so that audiences can more easily understand how much each product costs.
+   (2) Color. I think yellow may be associated more with protein than blue. Besides, there is only one type of color, making the chart not only look dull but also hard to get to the important point. So I'd like to introduce color gradients (e.g., dark yellow to light yellow for lower-cost items, and gray for higher-cost items) to enhance visualization and to highlight products that are both affordable and nutritious.
 
-
-
+   (3) Pictures. The pictures atop each bar chart duplicate information found in the X-label. So I would remove these pictures.
+   
+   (4) Calorie numbers. Calorie information is not introduced in the title or subtitle, and placing numbers at the top of the bar chart can make the audience feel confused, as they may expect to see the cost value at first glance. So I would remove those numbers while either deleting the calorie information or presenting it in a separate line chart aligned with the bar chart.
+   
+   (5) It is hard to identify the exact Y value. Identifying the exact Y cost value is not convenient, especially when bars are distant from the Y axis. To improve clarity, I would add light gray lines at 0.5, 1.5, 2.5, and 3.5 on the Y-axis, providing a reference for the cost of each product.
 
 4. Primary audiences
 I think this visualization is effective for reaching that audience. Because
