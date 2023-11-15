@@ -32,6 +32,8 @@ Original Visualization:
    (5) It is hard to identify the exact Y value. Identifying the exact Y cost value is not convenient, especially when bars are distant from the Y axis. To improve clarity, I would add light gray lines at 0.5, 1.5, 2.5, and 3.5 on the Y-axis, providing a reference for the cost of each product.
 
 4. Primary audiences
-I think this visualization is effective for reaching that audience. Because
+
+The primary audience can be health and fitness enthusiasts who are pursuing a healthy lifestyle and may have limited budgets.  
+I think this visualization is effective for reaching that audience. Although the design still needs to be improved, it at least lists a number of products in the X-axis that are good cheap protein resources, which aligns with the audience's priorities.
 
 5. Finally, how successful what this particular tool / scale at evaluating the data visualizations? How does this method compare to the Good Charts method? Is there anything missing?
