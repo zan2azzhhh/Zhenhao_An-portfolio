@@ -23,7 +23,7 @@ Original Visualization:
 
    (1) Subtitle. The subtitle conveys similar information as the title. To eliminate redundancy, I would remove the subtitle.
    
-   (2) Color. I think yellow may be associated more with protein than blue. Besides, there is only one type of color, making the chart not only look dull but also hard to get to the important point. So I'd like to introduce color gradients (e.g., dark yellow to light yellow for lower-cost items, and gray for higher-cost items) to enhance visualization and to highlight products that are both affordable and nutritious.
+   (2) Color. I think yellow may be associated more with protein than blue. Besides, there is only one type of color, making the chart not only look dull but also hard to get to the important point. So I'd like to introduce color gradients (e.g., dark yellow(1-2$) to light yellow(2-3$) for lower-cost items, and gray(over 3$) for higher-cost items) to enhance visualization and to highlight products that are both affordable and nutritious.
 
    (3) Pictures. The pictures atop each bar chart duplicate information found in the X-label. So I would remove these pictures.
    
