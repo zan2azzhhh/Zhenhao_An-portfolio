@@ -31,10 +31,10 @@ Original Visualization:
    
    (5) It is hard to identify the exact Y value. Identifying the exact Y cost value is not convenient, especially when bars are distant from the Y axis. To improve clarity, I would add light gray lines at 0.5, 1.5, 2.5, and 3.5 on the Y-axis, providing a reference for the cost of each product.
 
-4. Primary audiences
+3. Primary audiences
 
-The primary audience can be health and fitness enthusiasts who are pursuing a healthy lifestyle and may have limited budgets.  
-I think this visualization is effective for reaching that audience. Although the design still needs to be improved, it at least lists a number of products in the X-axis that are good cheap protein resources, which aligns with the audience's priorities.
+   The primary audience can be health and fitness enthusiasts who are pursuing a healthy lifestyle and may have limited budgets.  
+   I think this visualization is effective for reaching that audience. Although the design still needs to be improved, it at least lists a number    of products in the X-axis that are good cheap protein resources, which aligns with the audience's priorities.
 
-5. 
-I find the Data Visualization Effectiveness Profile method highly effective for evaluating visualizations, because of its diverse criteria, prompting consideration of various aspects. Comparing to the Good Charts method, which divides criteria into design execution and contextual awareness, the new method delves even deeper, particularly with engagement and intuitiveness criteria, which I would often overlook. I think the Good Charts method fosters thinking from an emotional perspective, while the new method encourages a more logical approach. Following this method, I would introduce yellow and gray color gradients and adopt a more concise layout.
+4. 
+   I find the Data Visualization Effectiveness Profile method highly effective for evaluating visualizations, because of its diverse criteria,       prompting consideration of various aspects. Comparing to the Good Charts method, which divides criteria into design execution and contextual      awareness, the new method delves even deeper, particularly with engagement and intuitiveness criteria, which I would often overlook. I think      the Good Charts method fosters thinking from an emotional perspective, while the new method encourages a more logical approach. Following this    method, I would introduce yellow and gray color gradients and adopt a more concise layout.
