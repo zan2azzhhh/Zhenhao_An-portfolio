@@ -2,4 +2,4 @@
 
 # Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 ## Step one: choose a data visualization from MakeoverMonday
-The Cheapest Ways to Get Your Protein
+[The Cheapest Ways to Get Your Protein](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)
