@@ -4,7 +4,7 @@
 ## Step one: choose a data visualization from MakeoverMonday
 Source: [The Cheapest Ways to Get Your Protein](https://data.world/makeovermonday/2023w8)
 
-This article explores various cheap protein options. 
+This article explores various effective cheap protein options. 
 
 Original Visualization:
 
