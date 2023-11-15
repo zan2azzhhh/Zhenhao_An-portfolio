@@ -29,7 +29,7 @@ Original Visualization:
    
    (4) Calorie numbers. Calorie information is not introduced in the title or subtitle, and placing numbers at the top of the bar chart can make the audience feel confused, as they may expect to see the cost value at first glance. So I would remove those numbers while either deleting the calorie information or presenting it in a separate line chart aligned with the bar chart.
    
-   (5) It is hard to identify the exact Y value. Identifying the exact Y cost value is not convenient, especially when bars are distant from the Y axis. To improve clarity, I would add light gray lines at 0.5, 1.5, 2.5, and 3.5 on the Y-axis, providing a reference for the cost of each product.
+   (5) It is hard to identify the exact Y value. Identifying the exact Y cost value is not convenient, especially when bars are distant from the Y axis. To improve clarity, I would label the price on the top of the bar chart (or add light gray lines at 0.5, 1.5, 2.5, and 3.5 on the Y-axis), providing a reference for the cost of each product.
 
 3. Primary audiences
 
