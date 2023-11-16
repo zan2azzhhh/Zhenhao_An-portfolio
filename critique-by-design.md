@@ -4,7 +4,8 @@
 ## Step one: choose a data visualization from MakeoverMonday
 Source: [The Cheapest Ways to Get Your Protein](https://data.world/makeovermonday/2023w8)
 
-This article explores various effective cheap protein options. 
+This article delves into various cost-effective protein options. 
+I selected this dataset because, in my daily life, I prioritize consuming healthy, high-quality, and budget-friendly foods. I find this data valuable for understanding how to choose daily meals that provide ample protein while being cost-effective. My goal is to share this valuable information with the public so that more people can benefit from it.
 
 Original Visualization:
 
@@ -44,6 +45,8 @@ Original Visualization:
 
 
 ## Step three: sketch out a solution
+Based on my analysis in step two, I have decided to create a bar chart using gray, yellow, and orange to distinguish the prices of various products. Additionally, I include a red line chart to represent calorie values. To enhance clarity, I added legends explaining the meaning of each color, displayed the exact protein amounts on each bar chart, and eliminated the subtitle.
+
 Here is my sketch:
 
 ![sektch](sketch.jpeg)
@@ -81,6 +84,21 @@ The intended audience likely includes fitness enthusiasts aiming to build a heal
 
 5. Is there anything you would change or do differently?
 I would consider providing an explanation for presenting this data, such as promoting a healthy and economical lifestyle. I would also merge yellow and orange colors for simplicity and create a separate chart for calorie data. I would also suggest adding an average line.
+
+### reflection
+I realize that there is still a lot to be improved. I'll streamline the complexity by removing unnecessary elements, such as reducing the number of colors and eliminating calorie information. Meanwhile, I should also try to employ additional design strategies to make the chart look more professional. Additionally, I'll refine the explanation of the data's visualization purpose, possibly by crafting a more effective title.
+
+
+## Step five: Build your solution
+
+[The Cheapest Ways to Get Your Protein](https://public.tableau.com/views/TheCheapestWaystoGetYourProtein_17001057893490/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+What are mainly modified:
+
+1. Changed a clearer title
+2. Added an average line. products that lower than the average are orange, and the rest are gray
+3. Added the filter function so that the audience can sort the data in different ways
+4. delete the calorie data to make the chart simple and clear
 
 
 
