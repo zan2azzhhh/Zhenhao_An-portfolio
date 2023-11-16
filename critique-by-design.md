@@ -43,4 +43,4 @@ Original Visualization:
 
 
 ## Step three: sketch out a solution
-![sektch](IMG_4047.jpeg)
+![sektch](sketch.jpeg)
