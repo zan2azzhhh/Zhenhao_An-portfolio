@@ -95,17 +95,21 @@ Tableau public:
 
 [The Cheapest Ways to Get Your Protein](https://public.tableau.com/views/TheCheapestWaystoGetYourProtein_17001057893490/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-What are mainly modified:
+Main Modifications:
 
-1. Changed a clearer title
-2. Added an average line. products that lower than the average are orange, and the rest are gray
-3. Added the filter function so that the audience can sort the data in different ways
-4. delete the calorie data to make the chart simple and clear
+1. Clarified the title for better understanding.
+2. Introduced an average line; products below average are orange, and others are gray.
+3. Implemented a filter function, enabling the audience to sort the data in various ways.
+4. Removed calorie data for simplicity and clarity.
+5. Changed the product to be the Y label, aligning with common conventions.
 
-In this new chart, I tried many ways to make it easier for the audience to understand. I highlight the products whose price are lower than average to let audience pay attention.
+In summary, these adjustments aim to enhance audience comprehension, with a focus on highlighting products priced below average for increased attention.
 
 Data Visualization:
-<div class='tableauPlaceholder' id='viz1700109985728' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheCheapestWaystoGetYourProtein_17001057893490&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheCheapestWaystoGetYourProtein_17001057893490&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheCheapestWaystoGetYourProtein_17001057893490&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+
+<div class='tableauPlaceholder' id='viz1700109985728' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheCheapestWaystoGetYourProtein_17001057893490&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheCheapestWaystoGetYourProtein_17001057893490&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheCheapestWaystoGetYourProtein_17001057893490&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>    
+Source Code:
+            
 <script type='text/javascript'>                    
    var divElement = document.getElementById('viz1700109985728');                    
    var vizElement = divElement.getElementsByTagName('object')[0];                    
