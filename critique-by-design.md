@@ -50,3 +50,18 @@ Here is my sketch:
 
 
 ## Step four: Test the solution
+### Student, 25
+1. Can you tell me what you think this is?
+This image is intended to compare the cost-effectiveness and calorie content of various protein sources.
+
+2. Can you describe to me what this is telling you?
+Each bar corresponds to a food item and is color-coded to indicate the cost tier: high price (gray), good price (yellow), and ideal price (orange). There is also a red line graph on top of the bars, representing the calorie content for the equivalent of 30 grams of protein from each food source.
+
+3. Is there anything you find surprising or confusing?
+Surprisingly and confusingly, some food items such as Salmon Fillet are quite expensive, yet they do not have the highest calorie content, which might contradict the common assumption that more expensive means higher in calories.
+
+4. Who do you think is the intended audience for this?
+The intended audience is likely individuals interested in nutrition, especially those looking to increase their protein intake in a cost-effective manner while possibly managing their calorie intake, such as athletes, bodybuilders, or people with limited budgets.
+
+5. Is there anything you would change or do differently?
+The chart could benefit from a clearer distinction between the bars, for instance, using different patterns or shading for the various colors to aid those with visual impairments or to ensure better clarity when printed in black and white. Additionally, adding specific numbers to the calorie line graph would provide more precise information.
