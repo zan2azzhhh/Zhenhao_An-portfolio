@@ -50,7 +50,7 @@ Here is my sketch:
 
 
 ## Step four: Test the solution
-### Student, 25
+### 1.Student, 25
 1. Can you tell me what you think this is?
 This image is intended to compare the cost-effectiveness and calorie content of various protein sources.
 
@@ -65,3 +65,24 @@ The intended audience is likely individuals interested in nutrition, especially 
 
 5. Is there anything you would change or do differently?
 The chart could benefit from a clearer distinction between the bars, for instance, using different patterns or shading for the various colors to aid those with visual impairments or to ensure better clarity when printed in black and white. Additionally, adding specific numbers to the calorie line graph would provide more precise information.
+
+### 2.Student, 27
+1. Can you tell me what you think this is?
+This is a bar chart illustrating the protein content of various products.
+
+2. Can you describe to me what this is telling you?
+The chart is full of content, primarily focusing on the price categorization of different products.
+
+3. Is there anything you find surprising or confusing?
+The data is a little divergent from convention as it emphasizes product price rather than the more typical concern of protein content per unit. The inclusion of calorie information seems redundant and unrelated to the title.
+
+4. Who do you think is the intended audience for this?
+The intended audience likely includes fitness enthusiasts aiming to build a healthy body and parents seeking to prepare nutritious meals for their children.
+
+5. Is there anything you would change or do differently?
+I would consider providing an explanation for presenting this data, such as promoting a healthy and economical lifestyle. I would also merge yellow and orange colors for simplicity and create a separate chart for calorie data. I would also suggest adding an average line.
+
+
+
+
+
