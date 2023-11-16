@@ -13,13 +13,13 @@ Original Visualization:
 
 ## Step two: critique the data visualization
 
-1. What I find works well and stands out to me
+### 1. What I find works well and stands out to me
    
    (1) Title. The title effectively communicates the content of the chart.
 
    (2) Bar Chart. The bar chart is very effective for comparing different categories
 
-2. What I find does not work well and I will do differently
+### 2. What I find does not work well and I will do differently
 
    (1) Subtitle. The subtitle conveys similar information as the title. To eliminate redundancy, I would remove the subtitle.
    
@@ -33,12 +33,13 @@ Original Visualization:
 
    (6) More about design. I would add legends at the right of the chart to show the meanings of gray, light yellow, dark yellow, and red. and also expand the white gap between the two bars a little bit so that the overall chart looks more clear.
 
-3. Primary audiences
+### 3. Primary audiences
 
    The primary audience can be health and fitness enthusiasts who are pursuing a healthy lifestyle and may have limited budgets.  
    I think this visualization is effective for reaching that audience. Although the design still needs to be improved, it at least lists a number    of products in the X-axis that are good cheap protein resources, which aligns with the audience's priorities.
 
-4. 
+### 4. Different methods
+ 
    I find the Data Visualization Effectiveness Profile method highly effective for evaluating visualizations, because of its diverse criteria,       prompting consideration of various aspects. Comparing to the Good Charts method, which divides criteria into design execution and contextual      awareness, the new method delves even deeper, particularly with engagement and intuitiveness criteria, which I would often overlook. I think      the Good Charts method fosters thinking from an emotional perspective, while the new method encourages a more logical approach. Following this    method, I would introduce yellow and gray color gradients and adopt a more concise layout.
 
 
@@ -46,3 +47,6 @@ Original Visualization:
 Here is my sketch:
 
 ![sektch](sketch.jpeg)
+
+
+## Step four: Test the solution
