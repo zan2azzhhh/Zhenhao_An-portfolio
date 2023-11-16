@@ -31,7 +31,7 @@ Original Visualization:
    
    (5) It is hard to identify the exact Y value. Identifying the exact Y cost value is not convenient, especially when bars are distant from the Y axis. To improve clarity, I would label the price on the top of the bar chart (or add light gray lines at 0.5, 1.5, 2.5, and 3.5 on the Y-axis), providing a reference for the cost of each product.
 
-   (6) I would also expand the white gap between the two bars a little bit so that the overall chart looks more clear.
+   (6) More about design. I would add legends at the right of the chart to show the meanings of gray, light yellow, dark yellow, and red. and also expand the white gap between the two bars a little bit so that the overall chart looks more clear.
 
 3. Primary audiences
 
@@ -43,3 +43,4 @@ Original Visualization:
 
 
 ## Step three: sketch out a solution
+![sektch](IMG_4047.jpeg)
