@@ -43,4 +43,6 @@ Original Visualization:
 
 
 ## Step three: sketch out a solution
+Here is my sketch:
+
 ![sektch](sketch.jpeg)
