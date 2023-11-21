@@ -22,10 +22,7 @@ Text here...
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
-|------||-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+average points per game (PPG) in the NBA by year: [PPG by year](https://www.sportskeeda.com/basketball/what-average-points-per-game-ppg-nba-year-looking-last-decade-evolution-scoring)
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
