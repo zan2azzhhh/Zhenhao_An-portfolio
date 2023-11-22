@@ -38,9 +38,7 @@ Over the past decade, NBA teams have shown a significant improvement in scoring.
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -53,6 +51,8 @@ Text here...
 1. average points per game by year: [SportsKeeda](https://www.sportskeeda.com/basketball/what-average-points-per-game-ppg-nba-year-looking-last-decade-evolution-scoring)
 
 2. Teams statistical data: [NBA official website](https://www.nba.com/stats/teams/traditional?sort=PTS&dir=-1&SeasonType=Playoffs&Season=2022-23)
+
+3. NBA revenue: [Statista](https://www.statista.com/statistics/193467/total-league-revenue-of-the-nba-since-2005/)
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
