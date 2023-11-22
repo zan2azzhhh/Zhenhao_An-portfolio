@@ -11,7 +11,7 @@ Over the past decade, NBA teams have shown a significant improvement in scoring.
 ### 1. Overview
 (1) PPG of the entire league from 2013 to 2023
 
-(2) PPG of the Warriors from 2013 to 2023
+(2) PPG of the Golden State Warriors from 2013 to 2023
 
 (3) PPG by team in the 2022-2023 and 2015-2016 seasons
 
