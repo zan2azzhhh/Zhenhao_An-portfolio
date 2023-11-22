@@ -15,7 +15,7 @@ Over the past 10 years, the scores NBA teams got have apparently improved. In th
 
    (3) PPG by team in season 2022-2023 and 2015-2016
    
-### 2. What may contribute to the scoring increase
+### 2. Factors that contribute to the scoring increase
 
    (1) 3-point shot and perimeter shot data from 2013 to 2023
 
@@ -25,7 +25,7 @@ Over the past 10 years, the scores NBA teams got have apparently improved. In th
    
    (4) number of fouls from 2013 to 2023
 
-### 3. Why the NBA teams make those changes
+### 3. Reasons behind this phenomenon
 
    (1) development of big data and roles of data analyst
    
@@ -33,13 +33,16 @@ Over the past 10 years, the scores NBA teams got have apparently improved. In th
    
    (3) Characteristics of players
 
-### 4. Influences behind this phenomena
+### 4. Influences this phenomenon may cause
 
    (1) Global market and Revenue
    
    (2) Audience rating
 
-   
+
+
+
+
 
 
 ## Initial sketches
