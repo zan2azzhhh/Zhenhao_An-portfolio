@@ -62,5 +62,5 @@ This website contains various financial data, which is useful when analyzing par
 
 # Method and medium
 1. Shorthand: for creating a better story
-2. Python: for web crawling and data analysis
+2. Python: for web crawling and data analysis so that I can acquire specific data I need and create personalized CSV file
 3. Tableau: for visualizing the data
