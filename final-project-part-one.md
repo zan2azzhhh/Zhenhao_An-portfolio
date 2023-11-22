@@ -4,40 +4,37 @@
 # Outline
 
 ## Overview
-Over the past 10 years, the scores NBA teams got have apparently improved. In the 2022–23 season, the average points per game(PPG) even reaches 114.2 points, which is the highest mark in history. I believe that there is really a lot to be analyzed so that we can have a better understanding of the latest basketball trends and better enjoy watching the games. So in my final project, I am going to take a look at some statistical data, and find the correlation between the points and its independent variables. 
+Over the past decade, NBA teams have shown a significant improvement in scoring. In the 2022–23 season, the average points per game (PPG) reached a historic high of 114.2 points. To gain a deeper understanding of the evolving trends in basketball, this final project aims to analyze statistical data and identify correlations between points and independent variables.
 
 ## Project Structure
+
 ### 1. Overview
-   
-   (1) PPG of the whole league by year from 2013 to 2023
+(1) PPG of the entire league from 2013 to 2023
 
-   (2) PPG of Warriors by year from 2013 to 2023
+(2) PPG of the Warriors from 2013 to 2023
 
-   (3) PPG by team in season 2022-2023 and 2015-2016
-   
-### 2. Factors that contribute to the scoring increase
+(3) PPG by team in the 2022-2023 and 2015-2016 seasons
 
-   (1) 3-point shot and perimeter shot data from 2013 to 2023
+### 2. Factors Contributing to Scoring Increase
+(1) 3-point and perimeter shot data from 2013 to 2023
 
-   (2) number of rounds from 2013 to 2023
-   
-   (3) hit rate of 2-point and 3-point from 2013 to 2023
-   
-   (4) number of fouls from 2013 to 2023
+(2) Number of rounds from 2013 to 2023
 
-### 3. Reasons behind this phenomenon
+(3) Hit rate of 2-point and 3-point shots from 2013 to 2023
 
-   (1) development of big data and roles of data analyst
-   
-   (2) Match rules and referees
-   
-   (3) Characteristics of players
+(4) Number of fouls from 2013 to 2023
 
-### 4. Influences this phenomenon may cause
+### 3. Reasons behind this Phenomenon
+(1) Development of big data and the role of data analysts
 
-   (1) Global market and Revenue
-   
-   (2) Audience rating
+(2) Match rules and the influence of referees
+
+(3) Characteristics of players
+
+### 4. Influences of this Phenomenon
+(1) Global market and revenue
+
+(2) Audience ratings
 
 
 ## Initial sketches
