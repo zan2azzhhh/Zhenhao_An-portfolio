@@ -40,6 +40,11 @@ Over the past decade, NBA teams have shown a significant improvement in scoring.
 ## Initial sketches
 ![data1](data1.png)
 
+![data2](data2.png)
+
+![data3](data3.png)
+
+
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
