@@ -46,18 +46,16 @@ Over the past decade, NBA teams have shown a significant improvement in scoring.
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+1. Teams statistical data: [NBA official website](https://www.nba.com/stats/teams/traditional?sort=PTS&dir=-1&SeasonType=Playoffs&Season=2022-23)
+The NBA's official website contains plenty of statistical data on every team in every season. With this website, I can crawl specific data like 3-point attempts, turnovers, and personal fouls that are potential independent variables.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-
-1. average points per game by year: [SportsKeeda](https://www.sportskeeda.com/basketball/what-average-points-per-game-ppg-nba-year-looking-last-decade-evolution-scoring)
-
-2. Teams statistical data: [NBA official website](https://www.nba.com/stats/teams/traditional?sort=PTS&dir=-1&SeasonType=Playoffs&Season=2022-23)
+2. average points per game by year: [SportsKeeda](https://www.sportskeeda.com/basketball/what-average-points-per-game-ppg-nba-year-looking-last-decade-evolution-scoring)
+This website lists PPGs for each year. With its help, I will not have to write code by myself to get this data.
 
 3. NBA revenue: [Statista](https://www.statista.com/statistics/193467/total-league-revenue-of-the-nba-since-2005/)
+This website contains financial data, which is useful when analyzing the influence behind this trend
+
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
