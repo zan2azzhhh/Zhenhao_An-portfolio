@@ -8,8 +8,11 @@ Over the past 10 years, the scores NBA teams got have apparently improved. In th
 
 ## Project Structure
 1. Overview:
+   
    PPG of whole league by year from 2013 to 2023
+   
    PPG of Warriors by year from 2013 to 2023
+   
    PPG by team in season 2022-2023 and 2015-2016
    
 
