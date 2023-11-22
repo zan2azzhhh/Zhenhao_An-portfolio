@@ -2,12 +2,17 @@
 # Why have NBA teams significantly improved their scoring over the past few decades?
 
 # Outline
- 
+
+## Overview
 Over the past 10 years, the scores NBA teams got have apparently improved. In the 2022–23 season, the average points per game(PPG) even reaches 114.2 points, which is the highest mark in history. I believe that there is really a lot to be analyzed so that we can have a better understanding of the latest basketball trends and better enjoy watching the games. So in my final project, I am going to take a look at some statistical data, and find the correlation between the points and its independent variables. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+## Project Structure
+1. Overview:
+   PPG of whole league by year from 2013 to 2023
+   PPG of Warriors by year from 2013 to 2023
+   PPG by team in season 2022-2023 and 2015-2016
+   
 
-Text here...
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
