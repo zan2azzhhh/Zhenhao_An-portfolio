@@ -7,14 +7,38 @@
 Over the past 10 years, the scores NBA teams got have apparently improved. In the 2022–23 season, the average points per game(PPG) even reaches 114.2 points, which is the highest mark in history. I believe that there is really a lot to be analyzed so that we can have a better understanding of the latest basketball trends and better enjoy watching the games. So in my final project, I am going to take a look at some statistical data, and find the correlation between the points and its independent variables. 
 
 ## Project Structure
-1. Overview:
-   PPG of the whole league by year from 2013 to 2023
-
-   PPG of Warriors by year from 2013 to 2023
-
-   PPG by team in season 2022-2023 and 2015-2016
+1. Overview
    
-2. what contributes to the scoring increase:
+   (1) PPG of the whole league by year from 2013 to 2023
+
+   (2) PPG of Warriors by year from 2013 to 2023
+
+   (3) PPG by team in season 2022-2023 and 2015-2016
+   
+2. What may contribute to the scoring increase
+
+   (1) 3-point shot and perimeter shot data from 2013 to 2023
+
+   (2) number of rounds from 2013 to 2023
+   
+   (3) hit rate of 2-point and 3-point from 2013 to 2023
+   
+   (4) number of fouls from 2013 to 2023
+
+3. Why the NBA teams make those changes
+
+   (1) development of big data and roles of data analyst
+   
+   (2) Match rules and referees
+   
+   (3) Characteristics of players
+
+4. Influences behind this phenomena
+
+   (1) Global market and Revenue
+   
+   (2) Audience rating
+
    
 
 
