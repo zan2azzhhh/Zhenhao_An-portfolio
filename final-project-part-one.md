@@ -49,18 +49,18 @@ Over the past decade, NBA teams have shown a significant improvement in scoring.
 
 1. Teams statistical data: [NBA official website](https://www.nba.com/stats/teams/traditional?sort=PTS&dir=-1&SeasonType=Playoffs&Season=2022-23)
 
-The NBA's official website contains plenty of statistical data on every team in every season. With this website, I can crawl specific data like 3-point attempts, turnovers, and personal fouls that are potential independent variables.
+The NBA's official website contains plenty of statistical data on every team in every season. I will use the data in the second part of my project: factors contributing to scoring increases, and part 3: reasons behind this phenomenon. With this website, I can crawl specific data like 3-point attempts, turnovers, and personal fouls that are potential independent variables.
 
 2. average points per game by year: [SportsKeeda](https://www.sportskeeda.com/basketball/what-average-points-per-game-ppg-nba-year-looking-last-decade-evolution-scoring)
 
-This website lists PPGs for each year. With its help, I will not have to write code by myself to get this data.
+This website lists PPGs for each year. I will use it in the overview part of my project. With its help, I will not have to write code by myself to get this data.
 
 3. NBA revenue: [Statista](https://www.statista.com/statistics/193467/total-league-revenue-of-the-nba-since-2005/)
 
-This website contains various financial data, which is useful when analyzing the influence behind this trend
+This website contains various financial data, which is useful when analyzing part 4 the influence behind this trend.
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+1. Shorthand: for creating a better story
+2. Python: for web crawling and data analysis
+3. Tableau: for visualizing the data
