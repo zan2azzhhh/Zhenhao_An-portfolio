@@ -9,9 +9,13 @@ I use shorthand to construct my story. In the Part II stage, my goal is to creat
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+
+### who I hope to reach with your story.
 
 I've separated the target audiences into two groups: NBA fans seeking deeper insights into the game, and individuals unfamiliar with the NBA but potential future audiences. For NBA enthusiasts, while they relish watching their favorite teams and players, the intricacies of the game's rules and formulas may elude them as non-professional players. Through this narrative, I aim to provide them with a better understanding of the game, enhancing their overall enjoyment. As for people unfamiliar with the NBA, I'm trying to make the story funny to captivate their interest and offer them an initial glimpse into the world of NBA.
+
+### Representative Individuals
+As there can be a wide range of potential target audiences, I plan to interview as many people as possible with diverse backgrounds. My strategy includes interviewing students on campus, neighbors in my community, and strangers on the street.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -20,7 +24,7 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+|Determine whether my story is easy to understand      |                  |
 |      |                  |
 |      |                  |
 
