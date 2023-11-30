@@ -26,7 +26,7 @@ Text here!
 |Whether my story is easy to understand      |1. Can you provide a brief summary of my story? 2. Is the message of my story clear to you? 3. Do you believe my story includes all the necessary information, or is there something missing that would affect your understanding?                  |
 |Whether my charts are good to look and useful for the story      | 1. Can you easily comprehend the message conveyed by the data, or is there any aspect that you find confusing? 2. Do you think the data is sufficient to tell a compelling story?                 |
 |Identify the target audiences      |1. Who do you believe is the intended audience for this story? 2. (For NBA fans) Did you enjoy reading this story? Does it make sense to you? 3. (Not familiar with NBA) Did you enjoy reading this story? Is there anything you found funny or surprising?                  |
-
+| Make sure to get sufficient feedback | Is there anything else you would like to mention or discuss? |
 
 Text here!
 
