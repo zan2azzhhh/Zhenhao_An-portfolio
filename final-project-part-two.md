@@ -2,16 +2,16 @@
 
 # Wireframes / storyboards
 
-I use shorthand to construct my story. In the Part II stage, my goal is to create a preliminary, though not final, version of my presentation. The overall framework is intact, but I am going to enhance data visualization, design, and passages after gathering feedback from interviewers.
+I use shorthand to construct my story. In the Part II stage, my goal is to create a preliminary, though not final, version of my presentation. The overall framework is intact, but I am going to enhance data visualization, design, and passages after gathering feedback from interviewers. 
 
-[My Shorthand website](https://preview.shorthand.com/FzLgSsiPhXzQjqPj)
+[My Shorthand Website](https://preview.shorthand.com/FzLgSsiPhXzQjqPj)
 
 # User research 
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+I've separated the target audiences into two groups: NBA fans seeking deeper insights into the game, and individuals unfamiliar with the NBA but potential future audiences. For NBA enthusiasts, while they relish watching their favorite teams and players, the intricacies of the game's rules and formulas may elude them as non-professional players. Through this narrative, I aim to provide them with a better understanding of the game, enhancing their overall enjoyment. As for people unfamiliar with the NBA, I'm trying to make the story funny to captivate their interest and offer them an initial glimpse into the world of NBA.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
