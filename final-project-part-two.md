@@ -34,13 +34,6 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (Male, 24, student, not NBA fan) | Interview 2(Male, 24, student, not NBA fan) | Interview 3 | Interview 4 |
-|-------------------------|--------------------------------|-------------|-------------|-------------|
-| 1                       |           |             |             |             |
-|      2                   |                                |             |             |             |
-|        3                 |                                |             |             |             |
-|        4                 |                                |             |             |             |
-
 | Questions | Interview 1 (Male, 24, student, not NBA fan) |
 |--|--------------------------------|
 |   1   |1. Your story provides an analytical view of the NBA's evolution over the past decade, focusing on viewership, revenue, playing style, and statistical changes in the game, like the increase in three-point attempts and scoring averages. 2. The message appears to be clear: the NBA has undergone significant changes in both the financial and gameplay aspects, suggesting a shift in strategy and audience engagement. 3. The information seems comprehensive in showcasing trends and data, but it might lack personal stories or testimonials that could provide context to the data, such as how players or fans feel about these changes.               |
@@ -59,22 +52,18 @@ For the second visual, as I am not a basketball fan, I am less familiar with the
 
 | Questions | Interview 3 (Male, 25, financial analyst, NBA fan) |
 |--|--------------------------------|
-|   1   |1. Can you provide a brief summary of my story?
-Reasons on the NBA teams’ total scoring increase over the past few decades
-2. Is the message of my story clear to you? 
-Yes
-3. Do you believe my story includes all the necessary information, or is there something missing that would affect your understanding?
-How is being more data driven correlated to teams taking more 3 pointers? Do they find out 3 pointers is more effective?|
-|2  ||
-|3 ||
-| 4|  |
+|   1   |1. Reasons on the NBA teams’ total scoring increase over the past few decades 2. Yes 3. How is being more data driven correlated to teams taking more 3 pointers? Do they find out 3 pointers is more effective?|
+|2  |1. Yes but why is the revenue graph hand-drew 2. Yes|
+|3 |NBA enthusiasts. Yes|
+| 4| N/A |
 
 | Questions | Interview 4 (Male, 32, Researcher, NBA fan) |
 |--|--------------------------------|
-|   1   ||
-|2  ||
-|3 ||
-| 4|  |
+|   1   |1.The story shows the reasons for NBA teams significantly improve the scoring over the past few decades. More 3 points attempted and made is one of the most contributing factors. 2. Yes 3. Why just list the 3 points made/attempted by power forwards? 
+Another one is for scoring opportunities, in the figure, 2019-2020 has the highest pace, but the scoring but with lower scoring compared to 2022-2023. And why 97 is the threshold for pace. |
+|2  |1. Data visualization is good except for the last one, which is a picture. It would be better if covert this one to a figure. 2. Yes|
+|3 |1. NBA fans 2.Yes this story makes sense for me|
+| 4| ESPN should have lots of data for NBA statistics. And there should be other similar story online for your references. |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
