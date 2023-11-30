@@ -28,19 +28,18 @@ Text here!
 |Identify the target audiences      |1. Who do you believe is the intended audience for this story? 2. (For NBA fans) Did you enjoy reading this story? Does it make sense to you? 3. (Not familiar with NBA) Did you enjoy reading this story? Is there anything you found funny or surprising?                  |
 | Make sure to get sufficient feedback | Is there anything else you would like to mention or discuss? |
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| Questions               | Interview 1 (Male, 24, student, not NBA fan) | Interview 2(Male, 24, student, not NBA fan) | Interview 3 | Interview 4 |
+|-------------------------|--------------------------------|-------------|-------------|-------------|
+| 1                       | 1. Your story provides an analytical view of the NBA's evolution over the past decade, focusing on viewership, revenue, playing style, and statistical changes in the game, like the increase in three-point attempts and scoring averages. 2. The message appears to be clear: the NBA has undergone significant changes in both the financial and gameplay aspects, suggesting a shift in strategy and audience engagement. 3. The information seems comprehensive in showcasing trends and data, but it might lack personal stories or testimonials that could provide context to the data, such as how players or fans feel about these changes.           |             |             |             |
+|      2                   |                                |             |             |             |
+|        3                 |                                |             |             |             |
+|        4                 |                                |             |             |             |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
