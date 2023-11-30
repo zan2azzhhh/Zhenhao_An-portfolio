@@ -66,22 +66,15 @@ Text here!
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |   Use more kinds of background.                                                                               |
+| If you can add more information about if there is a particular team(s) you focused on |  Choose a specific team for in-depth analysis|
+| I just list the 3 points made/attempted by power forwards    |  Include more types of data to make the story more colorful                                                                               |
+|   The last chart is still a sketch                                       |  Improve the chart quality of the last chart as well as the potential low quality charts                                                                               | 
+|   Espn should have lots of data                   |  Explore more data sources like ESPN,    SBNation                                     |
+| ...add more rows as necessary            |   Use more kinds of background and visualization types to increase ornamental qualities
+.                                                 |
+|       the story could be enhanced by comparing these trends to other sports leagues                 | make comparison of NBA and NFL, NHL                                                |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
