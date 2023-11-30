@@ -70,11 +70,11 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Findings or observations from interviews | |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| ...add more rows as necessary            |   Use more kinds of background.                                                                               |
 
 > ...include any final thoughts you have here. 
 
