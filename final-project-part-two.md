@@ -42,10 +42,9 @@ Text here!
 | 4| It would be interesting to discuss the impact of these trends on the sport’s future and how they influence the global perception of the NBA. Additionally, how these trends compare to other professional sports leagues around the world could offer a broader perspective on the evolution of sports in general. |
 
 | Questions | Interview 2 (Female, 22, student, not NBA fan) |
-|--|--------------------------------|
+|- |--------------------------------|
 |   1   |1. This story is about analyzing the potential reasons why NBA teams‘ performance has improved in recent years, two potential reasons are that they are focusing more on the three points attempts and increased the pace (not sure about the second point). 2. The first half of the message is clear to me, and the visualizations helped, but the last part about the revenue and NBA teams makes me a little bit confused. I wonder why such information is included in this story. 3. Overall, I think it includes the necessary information for me to understand the topic and questions. If you can add more information about if there is a particular team(s) you focused on in this study, it will be clearer for me to understand. I also wonder if the two potential reasons you concluded in the storytelling are conclusive in all the NBA teams.|
-|2  |1. For the first visualization, I wonder whether it presents the average of all NBA teams or just some/one particular team.
-For the second visual, as I am not a basketball fan, I am less familiar with the terms “3PA” and “2PA” which, I can only guess from the context might be 3 points and 2 points. Which took me a while to figure out. Yes, I think the first three graphics should be sufficient to tell a compelling story and explain the potential reasons, but I am less sure about the fourth one (the average rating and revenue) might help the story.|
+|2  |1. For the first visualization, I wonder whether it presents the average of all NBA teams or just some/one particular team. 2. For the second visual, as I am not a basketball fan, I am less familiar with the terms “3PA” and “2PA” which, I can only guess from the context might be 3 points and 2 points. Which took me a while to figure out. 3. Yes, I think the first three graphics should be sufficient to tell a compelling story and explain the potential reasons, but I am less sure about the fourth one (the average rating and revenue) might help the story.|
 |3 |1. The general public who are interested in sports or watching NBA. People who like playing basketball or basketball coaches who would like to know how NBA players improved and learn some practice techniques. 2.Yes, it is interesting for me to know that the NBA teams had more attempts of three points in the game, I originally thought three-point shooting could be hard and risky and players wouldn’t necessarily want to attempt more.|
 | 4|Nope, I think you’ve provided sufficient info to tell the story. However, I do feel that the last part about the revenue and overall rating can be a little bit off the topic that you might want to find another more natural way to integrate into your main story.
   |
@@ -58,7 +57,7 @@ For the second visual, as I am not a basketball fan, I am less familiar with the
 | 4| N/A |
 
 | Questions | Interview 4 (Male, 32, Researcher, NBA fan) |
-|--|--------------------------------|
+|- |--------------------------------|
 |   1   |1.The story shows the reasons for NBA teams significantly improve the scoring over the past few decades. More 3 points attempted and made is one of the most contributing factors. 2. Yes 3. Why just list the 3 points made/attempted by power forwards? 
 Another one is for scoring opportunities, in the figure, 2019-2020 has the highest pace, but the scoring but with lower scoring compared to 2022-2023. And why 97 is the threshold for pace. |
 |2  |1. Data visualization is good except for the last one, which is a picture. It would be better if covert this one to a figure. 2. Yes|
