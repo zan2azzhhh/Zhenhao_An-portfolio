@@ -42,11 +42,10 @@ Text here!
 |        4                 |                                |             |             |             |
 
 | Questions | Interview 1 (Male, 24, student, not NBA fan) |
-|-------------------------|--------------------------------|
+|---|--------------------------------|
 |   1   |1. Your story provides an analytical view of the NBA's evolution over the past decade, focusing on viewership, revenue, playing style, and statistical changes in the game, like the increase in three-point attempts and scoring averages. 2. The message appears to be clear: the NBA has undergone significant changes in both the financial and gameplay aspects, suggesting a shift in strategy and audience engagement. 3. The information seems comprehensive in showcasing trends and data, but it might lack personal stories or testimonials that could provide context to the data, such as how players or fans feel about these changes.               |
 |2  |1.The data visualizations are quite clear and effectively show the changes in the NBA's gameplay and financial aspects. However, a viewer might require background knowledge to fully understand some of the implications of the data. 2. The data seems sufficient for illustrating the story of the NBA’s evolution. However, the story could be enhanced by comparing these trends to other sports leagues or by providing insights into the causes of these changes.     |
-|3 |  1.The intended audience seems to be those interested in the business and analytical aspects of sports, particularly NBA fans, sports analysts, and possibly those in sports management.
-2.I find the evolution of the game and its financial aspects intriguing, especially the shift towards a more perimeter-oriented game. They might also find the contrast between past and present playing styles humorous or surprising.  |
+|3 |  1.The intended audience seems to be those interested in the business and analytical aspects of sports, particularly NBA fans, sports analysts, and possibly those in sports management. 2.I find the evolution of the game and its financial aspects intriguing, especially the shift towards a more perimeter-oriented game. They might also find the contrast between past and present playing styles humorous or surprising.  |
 | 4| It would be interesting to discuss the impact of these trends on the sport’s future and how they influence the global perception of the NBA. Additionally, how these trends compare to other professional sports leagues around the world could offer a broader perspective on the evolution of sports in general. |
 
 # Identified changes for Part III
