@@ -58,8 +58,7 @@ Text here!
 
 | Questions | Interview 4 (Male, 32, Researcher, NBA fan) |
 |- |--------------------------------|
-|   1   |1.The story shows the reasons for NBA teams significantly improve the scoring over the past few decades. More 3 points attempted and made is one of the most contributing factors. 2. Yes 3. Why just list the 3 points made/attempted by power forwards? 
-Another one is for scoring opportunities, in the figure, 2019-2020 has the highest pace, but the scoring but with lower scoring compared to 2022-2023. And why 97 is the threshold for pace. |
+|   1   |1.The story shows the reasons for NBA teams significantly improve the scoring over the past few decades. More 3 points attempted and made is one of the most contributing factors. 2. Yes 3. Why just list the 3 points made/attempted by power forwards? Another one is for scoring opportunities, in the figure, 2019-2020 has the highest pace, but the scoring but with lower scoring compared to 2022-2023. And why 97 is the threshold for pace. |
 |2  |1. Data visualization is good except for the last one, which is a picture. It would be better if covert this one to a figure. 2. Yes|
 |3 |1. NBA fans 2.Yes this story makes sense for me|
 | 4| ESPN should have lots of data for NBA statistics. And there should be other similar story online for your references. |
