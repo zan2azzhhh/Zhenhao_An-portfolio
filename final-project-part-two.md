@@ -42,11 +42,39 @@ Text here!
 |        4                 |                                |             |             |             |
 
 | Questions | Interview 1 (Male, 24, student, not NBA fan) |
-|---|--------------------------------|
+|--|--------------------------------|
 |   1   |1. Your story provides an analytical view of the NBA's evolution over the past decade, focusing on viewership, revenue, playing style, and statistical changes in the game, like the increase in three-point attempts and scoring averages. 2. The message appears to be clear: the NBA has undergone significant changes in both the financial and gameplay aspects, suggesting a shift in strategy and audience engagement. 3. The information seems comprehensive in showcasing trends and data, but it might lack personal stories or testimonials that could provide context to the data, such as how players or fans feel about these changes.               |
 |2  |1.The data visualizations are quite clear and effectively show the changes in the NBA's gameplay and financial aspects. However, a viewer might require background knowledge to fully understand some of the implications of the data. 2. The data seems sufficient for illustrating the story of the NBA’s evolution. However, the story could be enhanced by comparing these trends to other sports leagues or by providing insights into the causes of these changes.     |
 |3 |  1.The intended audience seems to be those interested in the business and analytical aspects of sports, particularly NBA fans, sports analysts, and possibly those in sports management. 2.I find the evolution of the game and its financial aspects intriguing, especially the shift towards a more perimeter-oriented game. They might also find the contrast between past and present playing styles humorous or surprising.  |
 | 4| It would be interesting to discuss the impact of these trends on the sport’s future and how they influence the global perception of the NBA. Additionally, how these trends compare to other professional sports leagues around the world could offer a broader perspective on the evolution of sports in general. |
+
+| Questions | Interview 2 (Female, 22, student, not NBA fan) |
+|--|--------------------------------|
+|   1   |1. This story is about analyzing the potential reasons why NBA teams‘ performance has improved in recent years, two potential reasons are that they are focusing more on the three points attempts and increased the pace (not sure about the second point). 2. The first half of the message is clear to me, and the visualizations helped, but the last part about the revenue and NBA teams makes me a little bit confused. I wonder why such information is included in this story. 3. Overall, I think it includes the necessary information for me to understand the topic and questions. If you can add more information about if there is a particular team(s) you focused on in this study, it will be clearer for me to understand. I also wonder if the two potential reasons you concluded in the storytelling are conclusive in all the NBA teams.|
+|2  |1. For the first visualization, I wonder whether it presents the average of all NBA teams or just some/one particular team.
+For the second visual, as I am not a basketball fan, I am less familiar with the terms “3PA” and “2PA” which, I can only guess from the context might be 3 points and 2 points. Which took me a while to figure out. Yes, I think the first three graphics should be sufficient to tell a compelling story and explain the potential reasons, but I am less sure about the fourth one (the average rating and revenue) might help the story.|
+|3 |1. The general public who are interested in sports or watching NBA. People who like playing basketball or basketball coaches who would like to know how NBA players improved and learn some practice techniques. 2.Yes, it is interesting for me to know that the NBA teams had more attempts of three points in the game, I originally thought three-point shooting could be hard and risky and players wouldn’t necessarily want to attempt more.|
+| 4|Nope, I think you’ve provided sufficient info to tell the story. However, I do feel that the last part about the revenue and overall rating can be a little bit off the topic that you might want to find another more natural way to integrate into your main story.
+  |
+
+| Questions | Interview 3 (Male, 25, financial analyst, NBA fan) |
+|--|--------------------------------|
+|   1   |1. Can you provide a brief summary of my story?
+Reasons on the NBA teams’ total scoring increase over the past few decades
+2. Is the message of my story clear to you? 
+Yes
+3. Do you believe my story includes all the necessary information, or is there something missing that would affect your understanding?
+How is being more data driven correlated to teams taking more 3 pointers? Do they find out 3 pointers is more effective?|
+|2  ||
+|3 ||
+| 4|  |
+
+| Questions | Interview 4 (Male, 32, Researcher, NBA fan) |
+|--|--------------------------------|
+|   1   ||
+|2  ||
+|3 ||
+| 4|  |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
