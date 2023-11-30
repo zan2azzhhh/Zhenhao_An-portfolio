@@ -41,6 +41,13 @@ Text here!
 |        3                 |                                |             |             |             |
 |        4                 |                                |             |             |             |
 
+| Goal | Questions to Ask |
+|-------------------------|--------------------------------|
+|   1   |              |
+|2  |     |
+|3 |    |
+| 4|  |
+
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
