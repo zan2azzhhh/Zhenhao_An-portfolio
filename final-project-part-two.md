@@ -24,7 +24,11 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|Determine whether my story is easy to understand      |                  |
+|Determine whether my story is easy to understand      |1. Can you provide a brief summary of my story?
+
+2. Is the message of my story clear to you? 
+
+3. Do you believe my story includes all the necessary information, or is there something missing that would affect your understanding?                  |
 |      |                  |
 |      |                  |
 
