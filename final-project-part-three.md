@@ -7,7 +7,20 @@
 > Include few paragraphs that reflects on changes you made since the completion of Part II.
 
 1. Call to action
-2. 
+
+2. Structure
+   
+3. New charts
+
+4. Copyright
+
+5. More kinds of backgrounds
+
+6. Navigation
+
+7. Color
+
+8. Assist
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
