@@ -6,25 +6,31 @@
 # Changes made since Part II
 
 1. Title
+
 I changed the title from "Why have NBA teams significantly improved their scoring abilities over the past decade?" to "Evolving Trends in the NBA over the Past Decade."
   
 2. Story Structure and call to action
+
 I shifted the focus from demonstrating results to exploring interesting and surprising aspects for the audience. The story now begins by highlighting four significant changes over the past decade and delving into the potential reasons behind these shifts. This new structure can be more effective in captivating the audience's attention and providing impactful insights.
 
 Next, I summarize these evolving trends to come up with practical suggestions for my audience, helping them  both watch games and play basketball more intelligently and effectively in their daily lives. With the help of "call to action" I hope my story can be impactful for the audience, going beyond just presenting interesting data.   
 
 3. A new element
+
 I identified the increasing trend of collaborative play among NBA teams as also important. And I integrated it into the story to add depth and substance.
 
 4. New visualization methods
+
 I chose specific teams (Nuggets and Heat) for a more detailed analysis, moving beyond generic average data for all teams. 
 
 Additionally, I use a radar chart to compare modern and traditional centers, providing a visual representation of the evolving trend toward collaborative play. The radar chart can be very helpful in comparing the ability values of different players.
 
 5. Color schemes
+
 I streamlined the color scheme, retaining only red and blue along with minimal yellow to align with the NBA color scheme. Other colors, such as orange, were all eliminated.
 
 6. Copyright
+
 I included a section at the bottom of the work to acknowledge all data sources. And I provide picture credits beneath each image.
 
 7. Various backgrounds
