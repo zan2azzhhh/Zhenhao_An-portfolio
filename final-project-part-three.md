@@ -4,9 +4,10 @@
 [Evolving Trends in the NBA over the Past Decade](https://carnegiemellon.shorthandstories.com/evolving-trends-in-the-nba-over-the-past-decade/index.html#article)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+> Include few paragraphs that reflects on changes you made since the completion of Part II.
 
-Text here!
+1. Call to action
+2. 
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
