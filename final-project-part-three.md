@@ -8,7 +8,7 @@
 1. Title
 
 I changed the title from "Why have NBA teams significantly improved their scoring abilities over the past decade?" to "Evolving Trends in the NBA over the Past Decade."
-  
+
 2. Story Structure and call to action
 
 I shifted the focus from demonstrating results to exploring interesting and surprising aspects for the audience. The story now begins by highlighting four significant changes over the past decade and delving into the potential reasons behind these shifts. This new structure can be more effective in captivating the audience's attention and providing impactful insights.
