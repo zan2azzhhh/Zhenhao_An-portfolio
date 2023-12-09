@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-[My Shorthand: Evolving Trends in the NBA over the Past Decade]([https://carnegiemellon.shorthandstories.com/evolving-trends-in-the-nba-over-the-past-decade/index.html#article](https://carnegiemellon.shorthandstories.com/evolving-trends-in-the-nba-over-the-past-decade/index.html))
+[My Shorthand: Evolving Trends in the NBA over the Past Decade](https://carnegiemellon.shorthandstories.com/evolving-trends-in-the-nba-over-the-past-decade/index.html)
 
 # Changes made since Part II
 
