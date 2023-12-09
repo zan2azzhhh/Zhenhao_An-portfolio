@@ -28,8 +28,10 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project
-[My Shorthand: Evolving Trends in the NBA over the Past Decade](https://carnegiemellon.shorthandstories.com/evolving-trends-in-the-nba-over-the-past-decade/index.html)
+## Final project: [My Shorthand: Evolving Trends in the NBA over the Past Decade](https://carnegiemellon.shorthandstories.com/evolving-trends-in-the-nba-over-the-past-decade/index.html)
+
 [Part I](final-project-part-one.md)
+
 [Part II](final-project-part-two.md)
+
 [Part III](final-project-part-three.md)
