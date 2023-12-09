@@ -1,5 +1,5 @@
 # 94870 Telling Stories with Data
-| [home page](https://zan2azzhhh.github.io/Zhenhao_An-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://zan2azzhhh.github.io/Zhenhao_An-portfolio/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 - Web page URL: https://zan2azzhhh.github.io/Zhenhao_An-portfolio/
 - This repository: https://github.com/zan2azzhhh/Zhenhao_An-portfolio
