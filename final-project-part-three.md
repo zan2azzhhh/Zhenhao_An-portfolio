@@ -13,7 +13,7 @@ I changed the title from "Why have NBA teams significantly improved their scorin
 
 I shifted the focus from demonstrating results to exploring interesting and surprising aspects for the audience. The story now begins by highlighting four significant changes over the past decade and delving into the potential reasons behind these shifts. This new structure can be more effective in captivating the audience's attention and providing impactful insights.
 
-Next, I summarize these evolving trends to come up with practical suggestions for my audience, helping them  both watch games and play basketball more intelligently and effectively in their daily lives. With the help of "call to action" I hope my story can be impactful for the audience, going beyond just presenting interesting data.   
+Next, I summarize these evolving trends to come up with practical suggestions for my audience, helping them both watch games and play basketball more intelligently and effectively in their daily lives. With the help of a "call to action", I hope my story can be impactful for the audience, going beyond just presenting interesting data.   
 
 3. A new element
 
@@ -39,14 +39,13 @@ I included a section at the bottom of the work to acknowledge all data sources. 
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story. Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Based on the feedbacks of interviewers, there is no doubt that the primary audiences are NBA enthusiasts. As my story is under the NBA background, NBA fans will enjoy reading it and understand what I am saying. For those audiences my story can give them a deeper understanding of how the game has transformed, allowing them to appreciate and analyze modern basketball more comprehensively, so they can stay updated on statistical trends and strategic shifts, and they can enhance their ability to discuss and enjoy NBA games!
+Based on the feedback from interviewers, it's clear that the primary audience for my story is NBA enthusiasts. Given the NBA background of my story, fans of the league will enjoy reading and comprehending the story very much. For this audience, my story offers a deeper understanding of how the game has transformed, enabling them to understand modern basketball more comprehensively. In turn, this allows them to stay updated on statistical trends and strategic shifts, enhancing their ability to discuss and enjoy NBA games.
 
-Besides, I think it would be also necessary for basketball coaches and players looking to stay informed about the evolving trends in the sport for strategic and training purposes. The NBA is the best professional basketball league in the world, so it would helpful to adopt these valuable trends to themselves. In my call to action part, I have summarized some suggestions to them based on the data I analyzed. So coaches can adapt their training methods and players refine their skills to stay competitive, and players can pay more attentions to the development of those more versatile and adaptable playing styles to effectively improve their skills.
+Furthermore, I believe it's also crucial for basketball coaches and players to stay informed about the evolving trends for strategic and training purposes. As the NBA represents the pinnacle of professional basketball, adopting these valuable trends can be beneficial for coaches and players at all levels. In the call-to-action section, I've summarized suggestions based on the analyzed data. Coaches can adapt their training methods, and players can refine their skills to let themselves stay competitive. Players can also pay more attention to the development of versatile and adaptable playing styles to effectively improve their skills.
+
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. Include any other information that helps round out your data story. 
 
 ### My design decision:
 
@@ -71,17 +70,23 @@ Besides, I think it would be also necessary for basketball coaches and players l
 5. Conclusion
 
 
-### What stands out to me:
-1. 2-point attempts(2PA) are decreasing while field goals attempts(FGA) and 3-point attempts(3PA) are significantly increasing(FGA = 2PA + 3PA). This is quite converse to the intuition that 2-point attempts should also increase as the field goal attempts have increased so many. So this truth would make audiences feel very superised. 
+### What stands out:
+1. The number of 2-point attempts (2PA) is decreasing, while field goal attempts (FGA) and 3-point attempts (3PA) are significantly increasing (FGA = 2PA + 3PA). This is contrary to the intuition that 2-point attempts should also increase with the rise in field goal attempts. This truth would surprise audiences, as it goes against conventional expectations, which outstands the importance of 3 points for modern basketball.
 
-2. When comparing the ability values of top modern centers and top traditional centers, it would be impressed to notice that either Nikola Jokic, G. Antetokounmpo and Joel Embild has shown their significant improvement in Assists and 3-points, while a little decrease in defense. This chart effectively shows what the NBA league is expecting the modern centers to do and what kind of game the league is hoping for. The audience will also be impressed by these apparent changes that can be more dramatic than they expect.
-
+2. Comparing the ability values of 3 top "modern" centers and 3 top "traditional" centers, it's worth noting that players like Nikola Jokic, G. Antetokounmpo, and Joel Embiid have shown significant improvement in assists and 3-point shooting, albeit with a slight decrease in defensive metrics. I believe this chart effectively illustrates the evolving expectations for modern centers in the NBA and the kind of game the league aspires to see. The audience will be impressed by these apparent changes which can be more dramatic than they might have expected, and be able to realize how important being all-around is for being a good modern center.
 
 ## References
 
-I listed the data sources at the bottom of my story, and picture sources at the bottom of each picture.
+I have listed the data sources at the bottom of my story, as well as picture sources at the bottom of each picture.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I have included many reflections in "changes made since Part 2". Here are summaries of what I put most effort into and some additional thoughts.
+
+1. Initially, in the "Wireframes and storyboards" section of part 2, I felt a bit confused because I believed I had done a thorough analysis of the reasons behind the observed phenomenon and provided effective visualizations. However, after discussions with the professor and TA, I realized that the focus should be more on crafting a story that leaves the audience impressed and surprised and imparts valuable lessons, rather than solely on statistical analysis. Through reconstruction, the new story presents data that goes beyond the audience's expectations and concludes with suggestions for them to learn, aligning with these two primary objectives.
+
+2. I think I have enhanced the quality of my visualizations by paying more attention to some details, refining the color scheme, and exploring different visualization methods. In addition to using Tableau, the Rawgraph website learned last week was also helpful for creating diverse visual elements like the radar chart. I also incorporated data from more sources, based on a suggestion from an interviewer. An interviewer told me that it would take her some time to figure out the meaning of FGA, 2PA, and PPG, so I included explanations for all the professional terms in the paragraphs.
+
+3. In part 2, I limited the amount of text because I thought the speech would be too concise to add more content. However, upon comparing my story with my classmates, I realized that adding more necessary paragraphs would still contribute to a more complete narrative.
+
+4. While attempting to use diverse section types in my Shorthand, I found that the 'text over media' style proved to be more effective and aesthetically pleasing for my story. So I transitioned most sections to the 'text over media' style, resulting in a visually appealing and cohesive story.
